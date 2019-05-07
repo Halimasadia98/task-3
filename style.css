@@ -1,0 +1,38 @@
+body{
+    background-image:linear-gradient( to right,aqua, rgb(127, 238, 127));
+    display: flex;
+    justify-content: center;
+    margin-top: 5em;
+    width: 100%;
+    
+    
+}
+form{
+background-image:linear-gradient(to right,aqua, rgb(208, 238, 208));
+width: 400px;
+padding: 20px;
+margin-top: 4em;
+box-shadow:2px rgb(208, 238, 208)
+
+
+}
+
+input{
+    padding: 5px;
+    display: block;
+    padding: 1em;
+    width: 300px;
+
+}
+button{
+    background-color:rgb(36, 33, 214);
+    color:white;
+    padding: 10px 2em;
+    border-radius: 5px;
+    margin-top: 3px;
+    font-weight: bold;
+}
+button:hover{
+   background-color: brown;
+    cursor: pointer;
+}
